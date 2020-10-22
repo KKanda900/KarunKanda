@@ -8,7 +8,7 @@ word: "pi"
 float: "3.14159e-10"
 
 ./tokenizer "today is a beautiful day"
-word: "today"
+word: "today" 
 word: "is"
 word: "a"
 word: "beautiful"
